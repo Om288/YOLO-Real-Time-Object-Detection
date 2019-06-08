@@ -1,7 +1,5 @@
 # YOLO-Real-Time-Object-Detection
 
-[![N|Solid](https://drive.google.com/uc?id=188X9uTU1_VT7TBu4wpnnIvmPizPxSTze)](https://www.facebook.com/harish.kumawat.9638)
-
 # Performance on the COCO Dataset
 ## We Need only three files
 - yolov3.weights
