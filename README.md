@@ -17,7 +17,7 @@ $ git clone https://github.com/pjreddie/darknet
 ## For Download the pre-trained weight
 $ wget https://pjreddie.com/media/files/yolov3.weights
 
-# For Webcam Just use this  0
+# For Webcam Just use 0
    
 # If you want to Change confidence and threshold value 
 
