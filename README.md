@@ -17,9 +17,8 @@ $ git clone https://github.com/pjreddie/darknet
 ## For Download the pre-trained weight
 $ wget https://pjreddie.com/media/files/yolov3.weights
 
-# For Webcam Just use this 
-
-$  o
+# For Webcam Just use this  0
+   
 # If you want to Change confidence and threshold value 
 
 $ python3 yolo_video.py -i o -c 0.6 -t 0.4
